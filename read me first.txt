@@ -1,0 +1,16 @@
+ce projet est la travail individuelle de AMROU HAJJI II1C
+
+pour accéder au projet tu dois utiliser wamp ou xamp (j'ai utiliser xamp)
+
+tu dois créer un base de donnée nommer uti sur php my admin
+
+les paries compréhension et lecture on chacune un seul question répéter 150 fois 
+(alors que la partie grammaire a 150 questions unique et la partie dictation a 50
+question) puisque l'importante n'est les question elle même mais comment on les 
+intégré dans le site.
+
+tu peut utiliser le fichier uti.sql et l'importer dans la base de donné (ou non j'ai
+ ajouter la fonction create table)
+
+pour accéder au projet tu peut simplement consulter ce lien 
+ https://phhtest.000webhostapp.com/index.php
